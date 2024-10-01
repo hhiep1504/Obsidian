@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "c049b1a85c6acd4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d385912896f1887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6832ecea4288281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024.1/Web Mining/Information Retrieval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6202388a320f1db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReID/CODE BENCHMARK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fda0430d0571ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a70420e6bba497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd165d2af045ec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "4de8ac7f9c8eb7e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Ghi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b305941982757290",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e13262022a51f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad45ea005e4eaa0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77cb97260d91cb27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ReID/CODE BENCHMARK.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "532c3a27c44647ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ReID/CODE BENCHMARK.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e65b12e6a57d0da3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e24ebaff2b6a8a86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ReID/CODE BENCHMARK.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6202388a320f1db0",
+  "lastOpenFiles": [
+    "2024.1/Web Mining/Lesson 2.md",
+    "2024.1/Web Mining/Information Retrieval.md",
+    "2024.1/Web Mining/Lesson 1- Intro.md",
+    "ReID/CODE BENCHMARK.md",
+    "ReID/Result (terminal).md",
+    "README.md",
+    "2024.1/Drawing 2024-09-29 18.15.10.excalidraw.md",
+    "2024.1",
+    "Docker/Hands-on SET UP.md",
+    "Docker/Các lệnh cơ bản.md",
+    "Docker/Build a Docker File.md",
+    "Excalidraw/Drawing 2024-09-29 17.47.33.excalidraw.md",
+    "Excalidraw/cropped_Information Retrieval.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "daily/file.md",
+    "daily/2024-09-29.md",
+    "daily",
+    "ReID/file structure.md",
+    "Ielts/Untitled.md",
+    "Ielts",
+    "2024.1/Web Mining/Project",
+    "2024.1/Web Mining/Đề thi/20211_Test.pdf",
+    "2024.1/Web Mining/Đề thi",
+    "2024.1/System Analysis and Design/UML.md",
+    "ReID",
+    "OCR/Dataset.md",
+    "LLM Notes.md",
+    "image1.md",
+    "Lesson 1.md",
+    "Pasted image 20240918080715.png",
+    "2024.1/System Analysis and Design",
+    "2024.1/Web Mining"
+  ]
+}
