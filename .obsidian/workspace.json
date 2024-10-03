@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d385912896f1887",
+        "id": "a4ab2b663c520f58",
         "type": "tabs",
         "children": [
           {
-            "id": "e6832ecea4288281",
+            "id": "537e2a3e9ca3e4d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.1/Web Mining/Information Retrieval.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6202388a320f1db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReID/CODE BENCHMARK.md",
+                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReID/CODE BENCHMARK.md",
+                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReID/CODE BENCHMARK.md",
+                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReID/CODE BENCHMARK.md"
+                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md"
               }
             }
           }
@@ -161,12 +148,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6202388a320f1db0",
+  "active": "537e2a3e9ca3e4d8",
   "lastOpenFiles": [
+    "2024.1/Web Mining/Project/Meetings.md",
+    "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
+    "2024.1/Big Data",
+    "2024.1/Web Mining/Project/Capstone project guideline.md",
+    "2024.1/Web Mining/Lesson 5-2.md",
+    "2024.1/Web Mining/Lesson 5.md",
+    "2024.1/Web Mining/Lesson 4 Information Retrieval.md",
+    "2024.1/Web Mining/Lesson 3 Data Visualization.md",
+    "2024.1/Web Mining/Lesson 2-3.md",
+    "2024.1/Web Mining/Lesson 2-2.md",
     "2024.1/Web Mining/Lesson 2.md",
-    "2024.1/Web Mining/Information Retrieval.md",
-    "2024.1/Web Mining/Lesson 1- Intro.md",
     "ReID/CODE BENCHMARK.md",
+    "2024.1/Web Mining/Lesson 1- Intro.md",
     "ReID/Result (terminal).md",
     "README.md",
     "2024.1/Drawing 2024-09-29 18.15.10.excalidraw.md",
@@ -190,12 +186,7 @@
     "2024.1/Web Mining/Đề thi",
     "2024.1/System Analysis and Design/UML.md",
     "ReID",
-    "OCR/Dataset.md",
-    "LLM Notes.md",
-    "image1.md",
-    "Lesson 1.md",
     "Pasted image 20240918080715.png",
-    "2024.1/System Analysis and Design",
-    "2024.1/Web Mining"
+    "2024.1/System Analysis and Design"
   ]
 }

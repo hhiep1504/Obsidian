@@ -42,21 +42,16 @@
 3. Describe the key characteristics of a decision tree and the type of problem it aims to solve.
 	1. A decision tree is a hierarchical structure that uses a series of rules to classify data into different categories. It aims to partition data into homogeneous subsets, where examples within each subset belong to the same class.
 4. What is the role of a non-homogeneity function in building a decision tree, and provide an example of such a function?
+	A non-homogeneity function measures the impurity or disorder of a dataset concerning class labels. It helps determine the best attribute to split the data at each node in a decision tree. Entropy is an example of a non-homogeneity function.
 5. Explain the concept of information gain in the context of decision trees and why information gain ratio is sometimes preferred.
+	Information gain quantifies the reduction in entropy achieved by splitting a dataset based on a specific attribute. Information gain ratio normalizes information gain by considering the number of attribute values, preventing bias towards attributes with many values.
 6. What is the fundamental assumption of the Naive Bayes algorithm, and how does it simplify the calculation of probabilities?
+	The Naive Bayes algorithm assumes conditional independence among attributes, meaning the presence or absence of a particular feature is independent of other features given the class label. This assumption simplifies probability calculations by allowing the use of individual attribute probabilities instead of considering all possible combinations.
 7. How is smoothing applied in Naive Bayes classification, and what issue does it address?
+	Smoothing techniques, such as Laplace smoothing, are used in Naive Bayes to address the zero probability problem. When an attribute value is not observed with a particular class in the training data, its probability becomes zero, leading to inaccurate predictions. Smoothing assigns small non-zero probabilities to unseen combinations, preventing this issue
 8. Briefly describe how text classification is approached using the Naive Bayes algorithm, including the representation of text data.
+		Text classification with Naive Bayes involves representing documents as bags of words, where the order of words is disregarded. The algorithm calculates the probability of a document belonging to a specific class based on the probabilities of individual words appearing in documents of that class.
 9. What is the objective of a Support Vector Machine (SVM) algorithm in a binary classification problem?
+	The objective of an SVM is to find the optimal hyperplane that separates data points of different classes with the maximum margin. This margin maximization aims to improve the model's generalization ability and reduce the risk of overfitting.
 10. Explain the concept of a kernel function in SVM and provide examples of commonly used kernels.
-
-**II. Answer Key**
-
-
-
-4. A non-homogeneity function measures the impurity or disorder of a dataset concerning class labels. It helps determine the best attribute to split the data at each node in a decision tree. Entropy is an example of a non-homogeneity function.
-5. Information gain quantifies the reduction in entropy achieved by splitting a dataset based on a specific attribute. Information gain ratio normalizes information gain by considering the number of attribute values, preventing bias towards attributes with many values.
-6. The Naive Bayes algorithm assumes conditional independence among attributes, meaning the presence or absence of a particular feature is independent of other features given the class label. This assumption simplifies probability calculations by allowing the use of individual attribute probabilities instead of considering all possible combinations.
-7. Smoothing techniques, such as Laplace smoothing, are used in Naive Bayes to address the zero probability problem. When an attribute value is not observed with a particular class in the training data, its probability becomes zero, leading to inaccurate predictions. Smoothing assigns small non-zero probabilities to unseen combinations, preventing this issue.
-8. Text classification with Naive Bayes involves representing documents as bags of words, where the order of words is disregarded. The algorithm calculates the probability of a document belonging to a specific class based on the probabilities of individual words appearing in documents of that class.
-9. The objective of an SVM is to find the optimal hyperplane that separates data points of different classes with the maximum margin. This margin maximization aims to improve the model's generalization ability and reduce the risk of overfitting.
-10. A kernel function in SVM implicitly maps data into a higher-dimensional feature space, allowing for the separation of non-linearly separable data in the original input space. Common kernel functions include polynomial kernels, which compute dot products raised to a specific degree, and Gaussian Radial Basis Function (RBF) kernels, which measure similarity based on radial distances between data points.
+	A kernel function in SVM implicitly maps data into a higher-dimensional feature space, allowing for the separation of non-linearly separable data in the original input space. Common kernel functions include polynomial kernels, which compute dot products raised to a specific degree, and Gaussian Radial Basis Function (RBF) kernels, which measure similarity based on radial distances between data points.
