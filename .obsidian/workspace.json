@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
+                "file": "Ielts/Writing/Buổi 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
+                "file": "Ielts/Writing/Buổi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
+                "file": "Ielts/Writing/Buổi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md"
+                "file": "Ielts/Writing/Buổi 1.md"
               }
             }
           }
@@ -150,8 +150,14 @@
   },
   "active": "537e2a3e9ca3e4d8",
   "lastOpenFiles": [
-    "2024.1/Web Mining/Project/Meetings.md",
+    "Ielts/Writing/Pasted image 20241004205405.png",
+    "2024.1/Big Data/CHƯƠNG 2 Hệ sinh thái Hadoop.md",
+    "Pasted image 20241006182734.png",
     "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
+    "Ielts/Writing/Buổi 1.md",
+    "Pasted image 20241004205546.png",
+    "Ielts/Writing",
+    "2024.1/Web Mining/Project/Meetings.md",
     "2024.1/Big Data",
     "2024.1/Web Mining/Project/Capstone project guideline.md",
     "2024.1/Web Mining/Lesson 5-2.md",
@@ -178,15 +184,11 @@
     "daily/file.md",
     "daily/2024-09-29.md",
     "daily",
-    "ReID/file structure.md",
-    "Ielts/Untitled.md",
     "Ielts",
     "2024.1/Web Mining/Project",
     "2024.1/Web Mining/Đề thi/20211_Test.pdf",
     "2024.1/Web Mining/Đề thi",
-    "2024.1/System Analysis and Design/UML.md",
     "ReID",
-    "Pasted image 20240918080715.png",
-    "2024.1/System Analysis and Design"
+    "Pasted image 20240918080715.png"
   ]
 }
