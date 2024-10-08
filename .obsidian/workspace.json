@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4ab2b663c520f58",
+        "id": "19e56f157a59c413",
         "type": "tabs",
         "children": [
           {
-            "id": "537e2a3e9ca3e4d8",
+            "id": "d4a51ed58fb21ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ielts/Writing/Buổi 1.md",
+                "file": "Ielts/cam 19/Keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ielts/Writing/Buổi 1.md",
+                "file": "Ielts/cam 19/Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ielts/Writing/Buổi 1.md",
+                "file": "Ielts/cam 19/Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ielts/Writing/Buổi 1.md"
+                "file": "Ielts/cam 19/Keys.md"
               }
             }
           }
@@ -148,14 +148,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "537e2a3e9ca3e4d8",
+  "active": "d4a51ed58fb21ee1",
   "lastOpenFiles": [
-    "Ielts/Writing/Pasted image 20241004205405.png",
     "2024.1/Big Data/CHƯƠNG 2 Hệ sinh thái Hadoop.md",
-    "Pasted image 20241006182734.png",
+    "2024.1/Big Data/Docs/Pasted image 20241006182734.png",
+    "2024.1/Big Data/Docs/Pasted image 20241008184136.png",
+    "2024.1/Big Data/Docs/Pasted image 20241008193622.png",
+    "2024.1/Big Data/Docs",
+    "2024.1/Big Data/Docs/Pasted image 20241008193508.png",
+    "2024.1/Big Data/Docs/Pasted image 20241008191101.png",
+    "2024.1/Big Data/Docs/Pasted image 20241008193324.png",
+    "2024.1/Big Data/Docs/Pasted image 20241008193250.png",
+    "2024.1/Big Data/Docs/Pasted image 20241008191211.png",
+    "2024.1/Big Data/Docs/Pasted image 20241008190732.png",
+    "2024.1/Big Data/Pasted image 20241008190643.png",
+    "Ielts/cam 19/Keys.md",
+    "Ielts/cam 19",
     "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
+    "LLM Notes.md",
+    "README.md",
     "Ielts/Writing/Buổi 1.md",
-    "Pasted image 20241004205546.png",
     "Ielts/Writing",
     "2024.1/Web Mining/Project/Meetings.md",
     "2024.1/Big Data",
@@ -170,7 +182,6 @@
     "ReID/CODE BENCHMARK.md",
     "2024.1/Web Mining/Lesson 1- Intro.md",
     "ReID/Result (terminal).md",
-    "README.md",
     "2024.1/Drawing 2024-09-29 18.15.10.excalidraw.md",
     "2024.1",
     "Docker/Hands-on SET UP.md",
@@ -181,14 +192,9 @@
     "Untitled 1.md",
     "Untitled.canvas",
     "Excalidraw",
-    "daily/file.md",
-    "daily/2024-09-29.md",
     "daily",
     "Ielts",
     "2024.1/Web Mining/Project",
-    "2024.1/Web Mining/Đề thi/20211_Test.pdf",
-    "2024.1/Web Mining/Đề thi",
-    "ReID",
-    "Pasted image 20240918080715.png"
+    "2024.1/Web Mining/Đề thi/20211_Test.pdf"
   ]
 }
