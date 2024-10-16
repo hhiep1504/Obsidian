@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19e56f157a59c413",
+        "id": "3ff79f7109a07ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "d4a51ed58fb21ee1",
+            "id": "2b85204fe8b7c2a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ielts/cam 19/Keys.md",
+                "file": "LLM course/Lesson 21 Complex Reasoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ielts/cam 19/Keys.md",
+                "file": "LLM course/Lesson 21 Complex Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ielts/cam 19/Keys.md",
+                "file": "LLM course/Lesson 21 Complex Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ielts/cam 19/Keys.md"
+                "file": "LLM course/Lesson 21 Complex Reasoning.md"
               }
             }
           }
@@ -148,9 +148,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4a51ed58fb21ee1",
+  "active": "2b85204fe8b7c2a0",
   "lastOpenFiles": [
+    "LLM course/Lesson 20 Tool use and Language Agents.md",
+    "LLM course/Lesson 21 Complex Reasoning.md",
+    "LLM course/Lesson 7 Prompting.md",
+    "LLM course/Lesson 6 Generation Algorithms.md",
+    "LLM course/Lesson 5 Transformer.md",
+    "LLM course/Lesson 4 Sequence Modeling.md",
+    "LLM course/Lesson 3 Language Modeling.md",
+    "LLM course/Lesson 2 Word Representation and Text Classifiers.md",
+    "LLM course/Lesson 1 Intro to NLP.md",
+    "LLM course/LLM Notes.md",
+    "LLM course",
+    "2024.1/Big Data/Chương 3 Hadoop HDFS File systems.md",
+    "2024.1/Big Data/Docs/c3_pdf.pdf",
+    "2024.1/Big Data/Docs/c3_pdf.pdf.crdownload",
     "2024.1/Big Data/CHƯƠNG 2 Hệ sinh thái Hadoop.md",
+    "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
+    "Ielts/cam 19/Keys.md",
     "2024.1/Big Data/Docs/Pasted image 20241006182734.png",
     "2024.1/Big Data/Docs/Pasted image 20241008184136.png",
     "2024.1/Big Data/Docs/Pasted image 20241008193622.png",
@@ -162,10 +178,7 @@
     "2024.1/Big Data/Docs/Pasted image 20241008191211.png",
     "2024.1/Big Data/Docs/Pasted image 20241008190732.png",
     "2024.1/Big Data/Pasted image 20241008190643.png",
-    "Ielts/cam 19/Keys.md",
     "Ielts/cam 19",
-    "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
-    "LLM Notes.md",
     "README.md",
     "Ielts/Writing/Buổi 1.md",
     "Ielts/Writing",
@@ -180,21 +193,9 @@
     "2024.1/Web Mining/Lesson 2-2.md",
     "2024.1/Web Mining/Lesson 2.md",
     "ReID/CODE BENCHMARK.md",
-    "2024.1/Web Mining/Lesson 1- Intro.md",
-    "ReID/Result (terminal).md",
-    "2024.1/Drawing 2024-09-29 18.15.10.excalidraw.md",
     "2024.1",
-    "Docker/Hands-on SET UP.md",
-    "Docker/Các lệnh cơ bản.md",
-    "Docker/Build a Docker File.md",
-    "Excalidraw/Drawing 2024-09-29 17.47.33.excalidraw.md",
-    "Excalidraw/cropped_Information Retrieval.md",
-    "Untitled 1.md",
     "Untitled.canvas",
     "Excalidraw",
-    "daily",
-    "Ielts",
-    "2024.1/Web Mining/Project",
-    "2024.1/Web Mining/Đề thi/20211_Test.pdf"
+    "daily"
   ]
 }
