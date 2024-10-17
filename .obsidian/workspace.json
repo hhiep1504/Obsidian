@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM course/Lesson 21 Complex Reasoning.md",
+                "file": "Ielts/Writing/Buổi 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Buổi 1"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0e13262022a51f37",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM course/Lesson 21 Complex Reasoning.md",
+                "file": "Ielts/Writing/Buổi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Buổi 1"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM course/Lesson 21 Complex Reasoning.md",
+                "file": "Ielts/Writing/Buổi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Buổi 1"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM course/Lesson 21 Complex Reasoning.md"
-              }
+                "file": "Ielts/Writing/Buổi 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Buổi 1"
             }
           }
         ]
@@ -150,15 +167,16 @@
   },
   "active": "2b85204fe8b7c2a0",
   "lastOpenFiles": [
-    "LLM course/Lesson 20 Tool use and Language Agents.md",
+    "Ielts/Writing/Pasted image 20241004205405.png",
+    "LLM course/Lesson 1 Intro to NLP.md",
     "LLM course/Lesson 21 Complex Reasoning.md",
+    "LLM course/Lesson 20 Tool use and Language Agents.md",
     "LLM course/Lesson 7 Prompting.md",
     "LLM course/Lesson 6 Generation Algorithms.md",
     "LLM course/Lesson 5 Transformer.md",
     "LLM course/Lesson 4 Sequence Modeling.md",
     "LLM course/Lesson 3 Language Modeling.md",
     "LLM course/Lesson 2 Word Representation and Text Classifiers.md",
-    "LLM course/Lesson 1 Intro to NLP.md",
     "LLM course/LLM Notes.md",
     "LLM course",
     "2024.1/Big Data/Chương 3 Hadoop HDFS File systems.md",
@@ -192,7 +210,6 @@
     "2024.1/Web Mining/Lesson 2-3.md",
     "2024.1/Web Mining/Lesson 2-2.md",
     "2024.1/Web Mining/Lesson 2.md",
-    "ReID/CODE BENCHMARK.md",
     "2024.1",
     "Untitled.canvas",
     "Excalidraw",
