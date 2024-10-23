@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0e13262022a51f37",
@@ -167,9 +166,20 @@
   },
   "active": "2b85204fe8b7c2a0",
   "lastOpenFiles": [
+    "Ielts/Writing/Buổi 2.md",
+    "Ielts/Writing/Pasted image 20241022111334.png",
     "Ielts/Writing/Pasted image 20241004205405.png",
+    "Ielts/Writing/Buổi 1.md",
+    "[Pasted.md",
     "LLM course/Lesson 1 Intro to NLP.md",
     "LLM course/Lesson 21 Complex Reasoning.md",
+    "2024.1/BA/Projects-20241.pdf",
+    "2024.1/BA/Project.md",
+    "2024.1/Projects-20241.pdf",
+    "Projects-20241.pdf",
+    "2024.1/BA",
+    "2024.1/CS",
+    "2024.1/Untitled.md",
     "LLM course/Lesson 20 Tool use and Language Agents.md",
     "LLM course/Lesson 7 Prompting.md",
     "LLM course/Lesson 6 Generation Algorithms.md",
@@ -194,25 +204,13 @@
     "2024.1/Big Data/Docs/Pasted image 20241008193324.png",
     "2024.1/Big Data/Docs/Pasted image 20241008193250.png",
     "2024.1/Big Data/Docs/Pasted image 20241008191211.png",
-    "2024.1/Big Data/Docs/Pasted image 20241008190732.png",
-    "2024.1/Big Data/Pasted image 20241008190643.png",
     "Ielts/cam 19",
     "README.md",
-    "Ielts/Writing/Buổi 1.md",
-    "Ielts/Writing",
     "2024.1/Web Mining/Project/Meetings.md",
-    "2024.1/Big Data",
     "2024.1/Web Mining/Project/Capstone project guideline.md",
     "2024.1/Web Mining/Lesson 5-2.md",
     "2024.1/Web Mining/Lesson 5.md",
     "2024.1/Web Mining/Lesson 4 Information Retrieval.md",
-    "2024.1/Web Mining/Lesson 3 Data Visualization.md",
-    "2024.1/Web Mining/Lesson 2-3.md",
-    "2024.1/Web Mining/Lesson 2-2.md",
-    "2024.1/Web Mining/Lesson 2.md",
-    "2024.1",
-    "Untitled.canvas",
-    "Excalidraw",
-    "daily"
+    "Untitled.canvas"
   ]
 }
