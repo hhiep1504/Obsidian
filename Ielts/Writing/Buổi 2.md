@@ -3,7 +3,7 @@
 ## Chart
 
 ***The chart shows the  percentage of boys and girls  aged 5-14  taking part in cultural activitíe and sports in Australia in 2003.***
-		![[Pasted image 20241022111334.png|550]]
+		![](https://raw.githubusercontent.com/hhiep1504/Obsidian/refs/heads/main/Ielts/Writing/Pasted%20image%2020241022111334.png)
 
 								Bài làm
 The bar chart illustrate how many boys and girls in the 5-14 age group participated in different/ various cultural activities and sports in Australia in the year 2003.

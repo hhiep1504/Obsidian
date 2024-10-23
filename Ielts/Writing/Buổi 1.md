@@ -5,9 +5,6 @@
 >Trong các đề task 1 thì map và process dễ hơn
 
 **Đề**
-![[Pasted image 20241004205405.png|700]]
-
-<<<<<<< HEAD
 ![](https://raw.githubusercontent.com/hhiep1504/Obsidian/refs/heads/main/Ielts/Writing/Pasted%20image%2020241004205405.png)
 
 The chart belows shows the type of transport young people in four countries prefer to use.
@@ -16,7 +13,6 @@ note:
 =======
 
 NOTE:
->>>>>>> 6c9c63d2404952d482a17e78c78175910923eca1
 -  2-3mins để plan (main features --> overview --> bodies)
 - ==Compare + report important data==
 - Overview: so sánh ngang + dọc  --> similarities + exceptions

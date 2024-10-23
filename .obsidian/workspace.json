@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ielts/Writing/Buổi 1.md",
+                "file": "Ielts/Writing/Buổi 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buổi 1"
+              "title": "Buổi 2"
             }
           }
         ]
@@ -166,6 +166,10 @@
   },
   "active": "2b85204fe8b7c2a0",
   "lastOpenFiles": [
+    "Ielts/Writing/Buổi 1.md",
+    "Ielts/Writing/Buổi 2.md",
+    "Ielts/Writing/Pasted image 20241022111334.png",
+    "LLM course/Lesson 1 Intro to NLP.md",
     "AI_daily/[Description]-Sentiment-Analysis.pdf",
     "AI_daily/[Description]-Linear-Regression.pdf",
     "AI_daily/ML-Evaluation.pdf",
@@ -175,16 +179,11 @@
     "AI_daily/M03W05_xgboost_project.pdf",
     "AI_daily/Description_XGBoost.pdf",
     "AI_daily",
-    "Ielts/Writing/Buổi 2.md",
-    "Ielts/Writing/Pasted image 20241022111334.png",
     "Ielts/Writing/Pasted image 20241004205405.png",
-    "Ielts/Writing/Buổi 1.md",
     "[Pasted.md",
-    "LLM course/Lesson 1 Intro to NLP.md",
     "LLM course/Lesson 21 Complex Reasoning.md",
     "2024.1/BA/Projects-20241.pdf",
     "2024.1/BA/Project.md",
-    "2024.1/Projects-20241.pdf",
     "2024.1/Untitled.md",
     "LLM course/Lesson 20 Tool use and Language Agents.md",
     "LLM course/Lesson 7 Prompting.md",
