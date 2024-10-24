@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ielts/Writing/Buổi 2.md",
+                "file": "2024.1/CS/§1. Tổng quan về an toàn an ninh thông tin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buổi 2"
+              "title": "§1. Tổng quan về an toàn an ninh thông tin"
+            }
+          },
+          {
+            "id": "32dcdf52cd04da48",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2024.1/CS/Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,16 +177,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cd165d2af045ec6",
+  "active": "32dcdf52cd04da48",
   "lastOpenFiles": [
+    "2024.1/CS/§1. Tổng quan về an toàn an ninh thông tin.md",
+    "Pasted image 20241025005406.png",
     "2024.1/CS/Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn.pdf",
+    "Ielts/Writing/Buổi 2.md",
     "Ielts/Writing/images/Pasted image 20241022111334.png",
     "Ielts/Writing/Buổi 1.md",
     "Pasted image 20241025000542.png",
     "Ielts/Writing/images/Pasted image 20241004205405.png",
     "Ielts/Writing/images/Pasted image 20241004205405 1.png",
     "Ielts/Writing/images",
-    "Ielts/Writing/Buổi 2.md",
     "2024.1/BA/Projects-20241.pdf",
     "2024.1/BA/Project.md",
     "LLM course/Lesson 1 Intro to NLP.md",
@@ -184,7 +199,6 @@
     "AI_daily/M04W1_Excercise",
     "AI_daily/M04W02-Reading_v4.pdf",
     "AI_daily/M03W05_xgboost_project.pdf",
-    "AI_daily/Description_XGBoost.pdf",
     "[Pasted.md",
     "LLM course/Lesson 21 Complex Reasoning.md",
     "2024.1/Untitled.md",
@@ -205,13 +219,11 @@
     "2024.1/Big Data/Docs/Pasted image 20241008193622.png",
     "2024.1/Big Data/Docs/Pasted image 20241008193508.png",
     "2024.1/Big Data/Docs/Pasted image 20241008191101.png",
-    "2024.1/Big Data/Docs/Pasted image 20241008193324.png",
     "README.md",
     "2024.1/Web Mining/Project/Meetings.md",
     "2024.1/Web Mining/Project/Capstone project guideline.md",
     "2024.1/Web Mining/Lesson 5-2.md",
     "2024.1/Web Mining/Lesson 5.md",
-    "2024.1/Web Mining/Lesson 4 Information Retrieval.md",
     "Untitled.canvas"
   ]
 }
