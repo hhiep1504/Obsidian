@@ -14,7 +14,9 @@ Regarding participation in cultural activities, the biggest difference can be se
 
 As for sports, proportionally, significantly more boys played sports than girls did. 70% of boys were reported to do sporting activities, compared to just over 50% of girls.
 
-
+#### Note
+1. Paraphrase:
+2. 
 
 
 
