@@ -27,7 +27,7 @@ if (r>0 && r<q) {
 
 dv.paragraph(html) 
 ```
-
+>Khai phá web các bạn sẽ được giới thiệu sâu hơn về phần ứng dụng như là ứng dụng các mô hình này vào các bài toán thực tế,
 ## 1. WWW là gì?
 
 - **1.1 Tác động của WWW:** Khám phá cách thức web, với thông tin rộng lớn và dễ truy cập, đã cách mạng hóa việc truy xuất thông tin và trở thành một kênh quan trọng cho giao tiếp và giao dịch.

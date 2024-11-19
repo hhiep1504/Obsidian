@@ -4,36 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff79f7109a07ea6",
+        "id": "c393fefe61e55121",
         "type": "tabs",
         "children": [
           {
-            "id": "2b85204fe8b7c2a0",
+            "id": "7648a78c5e33c26a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.1/CS/§1. Tổng quan về an toàn an ninh thông tin.md",
+                "file": "ReID/Benchmark phần Object Detection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "§1. Tổng quan về an toàn an ninh thông tin"
+              "title": "Benchmark phần Object Detection"
             }
           },
           {
-            "id": "32dcdf52cd04da48",
+            "id": "cd9dfdb2fc90dba0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2024.1/CS/Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn.pdf"
+                "file": "2024.1/CS/Midterm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn"
+              "icon": "lucide-file",
+              "title": "Midterm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ielts/Writing/Buổi 1.md",
+                "file": "2024.1/CS/Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Buổi 1"
+              "title": "Backlinks for Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn"
             }
           },
           {
@@ -176,53 +179,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b85204fe8b7c2a0",
+  "active": "cd9dfdb2fc90dba0",
   "lastOpenFiles": [
+    "Pasted image 20241119104612.png",
+    "Pasted image 20241119104558.png",
+    "Pasted image 20241119104542.png",
+    "Pasted image 20241119104527.png",
+    "Pasted image 20241119104520.png",
+    "ReID/CODE BENCHMARK.md",
+    "ReID/Benchmark phần Object Detection.md",
+    "1. Tổng quan về hệ gợi ý.md",
     "2024.1/CS/Giáo trình cơ sở an toàn thông tin - thầy Nguyễn Khanh Văn.pdf",
-    "2024.1/CS/§1. Tổng quan về an toàn an ninh thông tin.md",
-    "Pasted image 20241025005406.png",
-    "Ielts/Writing/Buổi 2.md",
-    "Ielts/Writing/images/Pasted image 20241022111334.png",
-    "Ielts/Writing/Buổi 1.md",
-    "Pasted image 20241025000542.png",
-    "Ielts/Writing/images/Pasted image 20241004205405.png",
-    "Ielts/Writing/images/Pasted image 20241004205405 1.png",
-    "Ielts/Writing/images",
-    "2024.1/BA/Projects-20241.pdf",
+    "2024.1/CS/Midterm.md",
     "2024.1/BA/Project.md",
+    "2024.1/BA/Projects-20241.pdf",
+    "2024.1/Web Mining/slides/L08-RecommendationSystems.pdf",
+    "2024.1/Web Mining/Lesson 8 Recommendation System.md",
     "LLM course/Lesson 1 Intro to NLP.md",
-    "AI_daily/[Description]-Sentiment-Analysis.pdf",
-    "AI_daily/[Description]-Linear-Regression.pdf",
-    "AI_daily/ML-Evaluation.pdf",
-    "AI_daily/M04W1_Excercise.pdf",
-    "AI_daily/M04W1_Excercise",
-    "AI_daily/M04W02-Reading_v4.pdf",
-    "AI_daily/M03W05_xgboost_project.pdf",
-    "[Pasted.md",
-    "LLM course/Lesson 21 Complex Reasoning.md",
-    "2024.1/Untitled.md",
-    "LLM course/Lesson 20 Tool use and Language Agents.md",
     "LLM course/Lesson 7 Prompting.md",
-    "LLM course/Lesson 6 Generation Algorithms.md",
-    "LLM course/Lesson 5 Transformer.md",
-    "LLM course/Lesson 4 Sequence Modeling.md",
-    "LLM course/Lesson 3 Language Modeling.md",
-    "LLM course/Lesson 2 Word Representation and Text Classifiers.md",
-    "LLM course/LLM Notes.md",
-    "2024.1/Big Data/Chương 3 Hadoop HDFS File systems.md",
-    "2024.1/Big Data/CHƯƠNG 2 Hệ sinh thái Hadoop.md",
+    "2024.1/Web Mining/Lesson 1- Intro.md",
+    "2024.1/Web Mining/slides/L03-Data-visualization.pdf",
+    "2024.1/Web Mining/slides/L02-MachineLearning-03.pdf",
+    "2024.1/Web Mining/slides/L02-MachineLearning-02.pdf",
+    "2024.1/Web Mining/slides/L02-MachineLearning-01.pdf",
+    "2024.1/Web Mining/slides/L09-OnlineAd-QueryMining.pdf",
+    "2024.1/Web Mining/slides/L07-InformationExtraction.pdf",
+    "2024.1/Web Mining/slides/L06-OpinionMining-03.pdf",
+    "2024.1/Web Mining/Lesson 2.3.md",
+    "2024.1/Web Mining/Lesson 2.md",
+    "2024.1/Web Mining/Lesson 2.2.md",
+    "2024.1/Big Data/Chương 4.3 Amazon DynamoDB.md",
+    "2024.1/Big Data/Docs/Pasted image 20241101181140.png",
+    "2024.1/Big Data/Chương 2 Hệ sinh thái Hadoop.md",
     "2024.1/Big Data/Chương 1 Tổng quan về lưu trữ và xử lý dữ liệu lớn.md",
-    "Ielts/cam 19/Keys.md",
-    "2024.1/Big Data/Docs/Pasted image 20241006182734.png",
-    "2024.1/Big Data/Docs/Pasted image 20241008184136.png",
-    "2024.1/Big Data/Docs/Pasted image 20241008193622.png",
-    "2024.1/Big Data/Docs/Pasted image 20241008193508.png",
-    "2024.1/Big Data/Docs/Pasted image 20241008191101.png",
-    "README.md",
-    "2024.1/Web Mining/Project/Meetings.md",
-    "2024.1/Web Mining/Project/Capstone project guideline.md",
-    "2024.1/Web Mining/Lesson 5-2.md",
-    "2024.1/Web Mining/Lesson 5.md",
+    "2024.1/Big Data/Chương 4.1 NoSQL.md",
+    "2024.1/Big Data/Chương 4.2 CAM theorem.md",
+    "2024.1/Big Data/Docs/Pasted image 20241101180852.png",
+    "2024.1/Big Data/Docs/Pasted image 20241101180622.png",
+    "2024.1/Big Data/Docs/Pasted image 20241101180610.png",
+    "2024.1/Big Data/Docs/Pasted image 20241101174224.png",
+    "2024.1/Big Data/Docs/Pasted image 20241101174209.png",
+    "2024.1/CS/§1. Tổng quan về an toàn an ninh thông tin.md",
+    "Ielts/Writing/Buổi 2.md",
+    "OCR/Dataset.md",
+    "2024.1/Big Data/Chương 3 Hadoop HDFS File systems.md",
+    "Ielts/Writing/Buổi 1.md",
+    "LLM course/Lesson 21 Complex Reasoning.md",
+    "LLM course/Lesson 20 Tool use and Language Agents.md",
+    "LLM course/Lesson 6 Generation Algorithms.md",
     "Untitled.canvas"
   ]
 }
